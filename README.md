@@ -1,13 +1,13 @@
-<h1 align="center">Matthew [Surname]</h1>
+<h1 align="center">Matthew G. Caballero</h1>
 <p align="center">
   <b>Offensive Security &middot; Penetration Tester (Web &amp; Network)</b><br>
   I break access controls, business logic, and SSRF &mdash; then write the report that fixes them.
 </p>
 <p align="center">
-  <a href="[LINKEDIN_URL]"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="www.linkedin.com/in/matthewgcaballero"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
   <a href="[BLOG_OR_PORTFOLIO_URL]"><img src="https://img.shields.io/badge/Write--ups-Read-1f6feb?style=flat&logo=readme&logoColor=white"></a>
-  <a href="[CREDLY_OR_HTB_PROFILE_URL]"><img src="https://img.shields.io/badge/Certifications-Verify-2ea44f?style=flat&logo=hackthebox&logoColor=white"></a>
-  <a href="mailto:[EMAIL]"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white"></a>
+  <a href="https://www.credly.com/users/matthew-caballero.9d29c5b1"><img src="https://img.shields.io/badge/Certifications-Verify-2ea44f?style=flat&logo=hackthebox&logoColor=white"></a>
+  <a href="mailto:mattcaballero.work@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white"></a>
 </p>
 
 👋 About
@@ -72,9 +72,9 @@ Everything here comes from authorized environments only: my own home lab, intent
 📫 Connect
 
 
-LinkedIn: linkedin.com/in/[handle]
+LinkedIn: www.linkedin.com/in/matthewgcaballero
 Write-ups / Blog: [your portfolio URL]
-Email: [email]
+Email: mattcaballero.work@gmail.com
 
 
 <!-- OPTIONAL: GitHub stats. Many senior/security profiles skip these for a cleaner look.
